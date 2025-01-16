@@ -7,7 +7,7 @@ import sbtdynver.DynVerPlugin.autoImport.*
 
 val scala3Version   = "3.6.2"
 val scala212Version = "2.12.20"
-val scala213Version = "2.13.15"
+val scala213Version = "2.13.16"
 
 val zioVersion       = "2.1.14"
 val catsVersion      = "3.5.7"
